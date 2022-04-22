@@ -1,0 +1,31 @@
+{
+    "spellright.language": [
+        "en",
+        "ru",
+        "cs",
+        "da",
+        "de",
+        "es",
+        "fr",
+        "it",
+        "hu",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "fi",
+        "sv",
+        "vi",
+        "tr",
+        "el",
+        "ar",
+        "hi",
+        "pa",
+        "te",
+        "ko"
+    ],
+    "spellright.documentTypes": [
+        "latex",
+        "plaintext"
+    ]
+}
