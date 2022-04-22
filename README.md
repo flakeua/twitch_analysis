@@ -28,9 +28,9 @@ Scraped the api of Twitch to get over 10000 records of different streams. With e
 After getting the data, I've cleaned it up so that it was usable for our models.
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the graphs.
 
-![alt text](images/avg_v_game.png "Average viewers by game")
-![alt text](images/avg_v_reg.png "Average viewers by region")
-![alt text](images/word_cloud.png "Word cloud from stream names")
+.<img src="images/avg_v_game.png" alt="Average viewers by game" style="float:left;" width="409"/> 
+.<img src="images/avg_v_reg.png" alt="Average viewers by region" style="float:left;" width="300"/>
+.<img src="images/word_cloud.png" alt="Word cloud from stream names" style="float:left;" width="259"/>
 
 ## Model Building
 
