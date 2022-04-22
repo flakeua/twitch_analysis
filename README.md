@@ -9,7 +9,10 @@
 ## Code and Resources Used
 
 **Python Version:** 3.8.12 (Anaconda)
+
 **Packages:** pandas, numpy, tensorflow, sklearn, matplotlib, seaborn, http, json
+
+**Required:** to start the project you need to create a file called tokens, where first line is client_id, and the second one is authorization token.
 
 ## Api Scraping
 
